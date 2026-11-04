@@ -1,0 +1,7 @@
+# OrgaLego dependencies.
+# BFS, Dijkstra, Kosaraju and Kruskal (with Union-Find) are hand-coded and
+# use NONE of these libraries. Data and the graph are plain Python + JSON.
+#
+# NetworkX is required: betweenness centrality and Louvain community detection
+# are computed through it.
+networkx>=3.0
