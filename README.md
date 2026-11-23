@@ -100,6 +100,6 @@ To inspect the full macro-scale graph directly in your browser, open `psl_organi
 ## Authors
 
 - **Yacine Chitour**
-- **Rayane**
+- **Rayane El-Fatimi**
 
 *Inaugural Cohort, International Bachelor of Science in Artificial Intelligence (IBSAI / PSAI) — Université PSL (June 2026)*
